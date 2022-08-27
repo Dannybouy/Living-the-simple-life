@@ -28,8 +28,8 @@ Living the Social Life Website
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Dannybouy/Living-the-simple-life)
+- Live Site URL: (https://living-the-simple-life.vercel.app/recent-posts.html)
 
 ## My process
 
